@@ -1,0 +1,59 @@
+# Archivos compilados de Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Directorios de Maven
+**/target/
+**/bin/
+
+# Archivos de logs
+*.log
+
+# Archivos del sistema operativo
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# IDEs - IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# IDEs - Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+
+# IDEs - NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# IDEs - VS Code
+.vscode/
+
+# Archivos de configuración local
+*.properties.local
+*.yml.local
+
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+*~.nib
+*.old
+
