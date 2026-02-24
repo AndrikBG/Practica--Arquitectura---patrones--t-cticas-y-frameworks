@@ -57,3 +57,7 @@ nbdist/
 *~.nib
 *.old
 
+# Incluir __MACOSX en el repositorio
+!__MACOSX/
+!__MACOSX/**
+
